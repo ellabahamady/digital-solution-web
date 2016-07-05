@@ -1,0 +1,7 @@
+.menu img {
+  padding-top:50px;
+}
+
+.menu img:hover {
+  padding-top:0;
+}
